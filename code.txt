@@ -8,3 +8,6 @@ incremental improvement 4
 incremental improvement 5
 incremental improvement 6
 implementation complete
+the reusable widget factory - start
+the reusable widget factory - 2
+the reusable widget factory - 3
