@@ -1,6 +1,9 @@
 asdf
 widget factory
 hotfix hotfix hotfix!
+hotfix 2 - incremental update
+hotfix 2 - complete
+hotfix 2 - this is much betterhotfix hotfix hotfix!
 making an incremental improvement
 incremental improvement 2
 incremental improvement 3
