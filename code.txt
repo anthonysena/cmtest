@@ -22,6 +22,7 @@ next release feature
 Square Widget Stuff.
 More Square Widget Stuff.
 next release feature
+Square Widget Phase 2 Commit 1
 -------------------------------------------------------
 round widget incremental improvement
 more round widget stuff
