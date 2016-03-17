@@ -23,5 +23,5 @@ round widget incremental improvement
 more round widget stuff
 widgets getting rounder
 still a few rough edges
-make widgets round again
-feel the round
+widgets are finally round!
+-------------------------------------------------------
