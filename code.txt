@@ -20,3 +20,6 @@ implementation complete
 next release feature
 -------------------------------------------------------
 round widget incremental improvement
+more round widget stuff
+widgets getting rounder
+still a few rough edges
