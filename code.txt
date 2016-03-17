@@ -31,3 +31,5 @@ widgets are finally round!
 -------------------------------------------------------
 v1.2 bug fix 1
 V1.2 bug fix 2
+V1.2 bug fix 3
+V1.2 bug fix 4
