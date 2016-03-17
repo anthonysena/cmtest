@@ -29,3 +29,5 @@ widgets getting rounder
 still a few rough edges
 widgets are finally round!
 -------------------------------------------------------
+v1.2 bug fix 1
+V1.2 bug fix 2
