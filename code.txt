@@ -18,6 +18,10 @@ the reusable widget factory - 2
 the reusable widget factory - 3
 implementation complete
 next release feature
+--------------------------------------
+Square Widget Stuff.
+More Square Widget Stuff.
+next release feature
 -------------------------------------------------------
 round widget incremental improvement
 more round widget stuff
