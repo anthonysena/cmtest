@@ -39,3 +39,4 @@ V1.2 bug fix 4
 adding a new piece of functionality.
 another important function
 master change 1
+master change 2
