@@ -43,4 +43,5 @@ git new-feature-branchanother important function
 master change 1
 master change 2
 --------------------------------------------------------
-new pull request change
+new pull request change 1
+new pull request change 2
