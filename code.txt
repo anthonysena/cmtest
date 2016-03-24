@@ -45,3 +45,5 @@ master change 2
 --------------------------------------------------------
 new pull request change 1
 new pull request change 2
+bug fix 1
+bug fix 2
