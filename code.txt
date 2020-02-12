@@ -42,3 +42,5 @@ another important function
 git new-feature-branchanother important function
 master change 1
 master change 2
+--------------------------------------------------------
+branch cleanup test change
